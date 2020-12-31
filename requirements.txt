@@ -1,3 +1,5 @@
 numpy
 scipy
-future==0.16.0
+# @modified 20201231 - Update future
+#future==0.16.0
+future==0.18.2
